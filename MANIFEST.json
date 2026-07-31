@@ -1,0 +1,1202 @@
+[
+  {
+    "path": "00-foundations/0000-clipping.md",
+    "title": "截断（Clipping）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4770,
+    "lines": 133,
+    "display_formulas": 8
+  },
+  {
+    "path": "00-foundations/0000-cyclical-encoding.md",
+    "title": "周期编码（Cyclical Encoding）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4721,
+    "lines": 155,
+    "display_formulas": 10
+  },
+  {
+    "path": "00-foundations/0000-effect-contrast-coding.md",
+    "title": "效应与对比编码（Effect / Contrast Coding）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4966,
+    "lines": 144,
+    "display_formulas": 10
+  },
+  {
+    "path": "00-foundations/0000-interaction-features.md",
+    "title": "交互特征（Interaction Features）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4782,
+    "lines": 144,
+    "display_formulas": 10
+  },
+  {
+    "path": "00-foundations/0000-one-hot-encoding.md",
+    "title": "独热编码（One-hot Encoding）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4522,
+    "lines": 142,
+    "display_formulas": 9
+  },
+  {
+    "path": "00-foundations/0000-ordinal-encoding.md",
+    "title": "有序编码（Ordinal Encoding）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 5106,
+    "lines": 126,
+    "display_formulas": 7
+  },
+  {
+    "path": "00-foundations/0000-polynomial-features.md",
+    "title": "多项式特征（Polynomial Features）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4529,
+    "lines": 136,
+    "display_formulas": 9
+  },
+  {
+    "path": "00-foundations/0000-unit-dimension-normalization.md",
+    "title": "单位与量纲统一（Unit and Dimension Normalization）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4861,
+    "lines": 141,
+    "display_formulas": 10
+  },
+  {
+    "path": "00-foundations/2009-feature-hashing.md",
+    "title": "特征哈希（Feature Hashing）",
+    "year": "2009",
+    "bytes": 4731,
+    "lines": 149,
+    "display_formulas": 11
+  },
+  {
+    "path": "01-data-quality/0000-constraint-validation.md",
+    "title": "规则约束校验（Constraint Validation）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4695,
+    "lines": 140,
+    "display_formulas": 10
+  },
+  {
+    "path": "01-data-quality/0000-exact-hash-deduplication.md",
+    "title": "精确去重与哈希去重（Exact / Hash Deduplication）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4809,
+    "lines": 122,
+    "display_formulas": 7
+  },
+  {
+    "path": "01-data-quality/0000-winsorization.md",
+    "title": "温莎化（Winsorization）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4229,
+    "lines": 124,
+    "display_formulas": 8
+  },
+  {
+    "path": "01-data-quality/1981-ransac.md",
+    "title": "随机采样一致性（RANSAC）",
+    "year": "1981",
+    "bytes": 4782,
+    "lines": 150,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/0000-equal-frequency-binning.md",
+    "title": "等频分箱（Equal-frequency Binning）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4614,
+    "lines": 138,
+    "display_formulas": 9
+  },
+  {
+    "path": "02-scaling-transforms/0000-equal-width-binning.md",
+    "title": "等宽分箱（Equal-width Binning）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4415,
+    "lines": 156,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/0000-log1p-transform.md",
+    "title": "对数与 log1p 变换（Log / log1p Transform）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4682,
+    "lines": 166,
+    "display_formulas": 14
+  },
+  {
+    "path": "02-scaling-transforms/0000-maxabs-scaling.md",
+    "title": "最大绝对值缩放（MaxAbs Scaling）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4443,
+    "lines": 162,
+    "display_formulas": 13
+  },
+  {
+    "path": "02-scaling-transforms/0000-min-max-scaling.md",
+    "title": "Min-Max 归一化（Min-Max Scaling）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4202,
+    "lines": 156,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/0000-robust-scaling.md",
+    "title": "中位数-IQR 稳健缩放（Median-IQR Robust Scaling）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4466,
+    "lines": 146,
+    "display_formulas": 11
+  },
+  {
+    "path": "02-scaling-transforms/0000-unit-norm-normalization.md",
+    "title": "单位范数归一化（Unit Norm Normalization）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4408,
+    "lines": 156,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/0000-z-score-standardization.md",
+    "title": "Z-score 标准化（Z-score Standardization）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4429,
+    "lines": 161,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/1955-isotonic-regression.md",
+    "title": "保序回归（Isotonic Regression）",
+    "year": "1955",
+    "bytes": 5460,
+    "lines": 180,
+    "display_formulas": 15
+  },
+  {
+    "path": "02-scaling-transforms/1964-box-cox-transform.md",
+    "title": "Box-Cox 变换（Box-Cox Transform）",
+    "year": "1964",
+    "bytes": 5501,
+    "lines": 194,
+    "display_formulas": 17
+  },
+  {
+    "path": "02-scaling-transforms/1992-chimerge.md",
+    "title": "ChiMerge 监督分箱（ChiMerge）",
+    "year": "1992",
+    "bytes": 4789,
+    "lines": 158,
+    "display_formulas": 12
+  },
+  {
+    "path": "02-scaling-transforms/1993-mdlp-discretization.md",
+    "title": "最小描述长度离散化（MDLP Discretization）",
+    "year": "1993",
+    "bytes": 4889,
+    "lines": 165,
+    "display_formulas": 13
+  },
+  {
+    "path": "02-scaling-transforms/2000-yeo-johnson-transform.md",
+    "title": "Yeo-Johnson 变换（Yeo-Johnson Transform）",
+    "year": "2000",
+    "bytes": 4833,
+    "lines": 165,
+    "display_formulas": 13
+  },
+  {
+    "path": "02-scaling-transforms/2003-quantile-normalization.md",
+    "title": "分位数归一化（Quantile Normalization）",
+    "year": "2003",
+    "bytes": 5144,
+    "lines": 174,
+    "display_formulas": 14
+  },
+  {
+    "path": "02-scaling-transforms/2004-caim-discretization.md",
+    "title": "CAIM 离散化（Class-Attribute Interdependence Maximization）",
+    "year": "2004",
+    "bytes": 4663,
+    "lines": 150,
+    "display_formulas": 11
+  },
+  {
+    "path": "03-missing-data/0000-mean-imputation.md",
+    "title": "均值填补（Mean Imputation）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4396,
+    "lines": 161,
+    "display_formulas": 13
+  },
+  {
+    "path": "03-missing-data/0000-median-imputation.md",
+    "title": "中位数填补（Median Imputation）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4430,
+    "lines": 147,
+    "display_formulas": 10
+  },
+  {
+    "path": "03-missing-data/0000-missing-indicator.md",
+    "title": "缺失指示变量（Missingness Indicator）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4333,
+    "lines": 142,
+    "display_formulas": 10
+  },
+  {
+    "path": "03-missing-data/0000-mode-imputation.md",
+    "title": "众数填补（Mode Imputation）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4314,
+    "lines": 145,
+    "display_formulas": 10
+  },
+  {
+    "path": "03-missing-data/1977-expectation-maximization.md",
+    "title": "期望最大化算法（Expectation-Maximization Algorithm）",
+    "year": "1977",
+    "bytes": 7454,
+    "lines": 273,
+    "display_formulas": 25
+  },
+  {
+    "path": "03-missing-data/2001-knn-imputation.md",
+    "title": "KNN 填补（K-nearest-neighbour Imputation）",
+    "year": "2001",
+    "bytes": 4947,
+    "lines": 169,
+    "display_formulas": 13
+  },
+  {
+    "path": "03-missing-data/2010-softimpute.md",
+    "title": "SoftImpute（SoftImpute）",
+    "year": "2010",
+    "bytes": 5255,
+    "lines": 182,
+    "display_formulas": 16
+  },
+  {
+    "path": "03-missing-data/2012-missforest.md",
+    "title": "MissForest（MissForest）",
+    "year": "2012",
+    "bytes": 5592,
+    "lines": 180,
+    "display_formulas": 13
+  },
+  {
+    "path": "04-distance-alignment/1936-mahalanobis-distance.md",
+    "title": "马氏距离（Mahalanobis Distance）",
+    "year": "1936",
+    "bytes": 4562,
+    "lines": 154,
+    "display_formulas": 10
+  },
+  {
+    "path": "04-distance-alignment/1971-gower-distance.md",
+    "title": "Gower 距离（Gower Distance）",
+    "year": "1971",
+    "bytes": 4639,
+    "lines": 146,
+    "display_formulas": 10
+  },
+  {
+    "path": "04-distance-alignment/1978-dynamic-time-warping.md",
+    "title": "动态时间规整（Dynamic Time Warping）",
+    "year": "1978",
+    "bytes": 4806,
+    "lines": 150,
+    "display_formulas": 11
+  },
+  {
+    "path": "04-distance-alignment/2017-soft-dtw.md",
+    "title": "Soft-DTW（Soft Dynamic Time Warping）",
+    "year": "2017",
+    "bytes": 5120,
+    "lines": 181,
+    "display_formulas": 15
+  },
+  {
+    "path": "04-distance-alignment/2024-automatic-gower-weighting.md",
+    "title": "自动 Gower 加权（Automatic Gower Weighting）",
+    "year": "2024",
+    "bytes": 5256,
+    "lines": 163,
+    "display_formulas": 12
+  },
+  {
+    "path": "05-feature-selection/1992-relief.md",
+    "title": "Relief 特征评分（Relief）",
+    "year": "1992",
+    "bytes": 5821,
+    "lines": 185,
+    "display_formulas": 15
+  },
+  {
+    "path": "05-feature-selection/1994-relieff.md",
+    "title": "ReliefF 特征评分（ReliefF）",
+    "year": "1994",
+    "bytes": 5345,
+    "lines": 174,
+    "display_formulas": 13
+  },
+  {
+    "path": "05-feature-selection/1996-lasso.md",
+    "title": "LASSO（Least Absolute Shrinkage and Selection Operator）",
+    "year": "1996",
+    "bytes": 6806,
+    "lines": 274,
+    "display_formulas": 28
+  },
+  {
+    "path": "05-feature-selection/1999-correlation-feature-selection.md",
+    "title": "相关性特征选择（Correlation-based Feature Selection）",
+    "year": "1999",
+    "bytes": 5874,
+    "lines": 195,
+    "display_formulas": 16
+  },
+  {
+    "path": "05-feature-selection/2005-elastic-net.md",
+    "title": "Elastic Net（Elastic Net）",
+    "year": "2005",
+    "bytes": 4671,
+    "lines": 143,
+    "display_formulas": 10
+  },
+  {
+    "path": "05-feature-selection/2005-fused-lasso.md",
+    "title": "融合 LASSO（Fused Lasso）",
+    "year": "2005",
+    "bytes": 4691,
+    "lines": 146,
+    "display_formulas": 10
+  },
+  {
+    "path": "05-feature-selection/2005-mrmr.md",
+    "title": "最小冗余最大相关（Minimum Redundancy Maximum Relevance）",
+    "year": "2005",
+    "bytes": 5359,
+    "lines": 176,
+    "display_formulas": 14
+  },
+  {
+    "path": "05-feature-selection/2006-group-lasso.md",
+    "title": "组 LASSO（Group Lasso）",
+    "year": "2006",
+    "bytes": 4694,
+    "lines": 157,
+    "display_formulas": 12
+  },
+  {
+    "path": "05-feature-selection/2010-boruta.md",
+    "title": "Boruta（Boruta Feature Selection）",
+    "year": "2010",
+    "bytes": 5557,
+    "lines": 165,
+    "display_formulas": 12
+  },
+  {
+    "path": "05-feature-selection/2010-stability-selection.md",
+    "title": "稳定性选择（Stability Selection）",
+    "year": "2010",
+    "bytes": 5537,
+    "lines": 174,
+    "display_formulas": 13
+  },
+  {
+    "path": "05-feature-selection/2015-knockoff-filter.md",
+    "title": "Knockoff 过滤器（Knockoff Filter）",
+    "year": "2015",
+    "bytes": 5585,
+    "lines": 180,
+    "display_formulas": 14
+  },
+  {
+    "path": "05-feature-selection/2018-model-x-knockoffs.md",
+    "title": "Model-X Knockoffs（Model-X Knockoffs）",
+    "year": "2018",
+    "bytes": 6753,
+    "lines": 203,
+    "display_formulas": 16
+  },
+  {
+    "path": "05-feature-selection/2024-delve.md",
+    "title": "DELVE（Dynamic selection of locally covarying features）",
+    "year": "2024",
+    "bytes": 5617,
+    "lines": 171,
+    "display_formulas": 13
+  },
+  {
+    "path": "06-dimensionality-reduction/1901-principal-component-analysis.md",
+    "title": "主成分分析（Principal Component Analysis）",
+    "year": "1901",
+    "bytes": 7217,
+    "lines": 239,
+    "display_formulas": 21
+  },
+  {
+    "path": "06-dimensionality-reduction/1936-canonical-correlation-analysis.md",
+    "title": "典型相关分析（Canonical Correlation Analysis）",
+    "year": "1936",
+    "bytes": 4978,
+    "lines": 175,
+    "display_formulas": 14
+  },
+  {
+    "path": "06-dimensionality-reduction/1936-linear-discriminant-analysis.md",
+    "title": "线性判别分析（Linear Discriminant Analysis）",
+    "year": "1936",
+    "bytes": 5356,
+    "lines": 192,
+    "display_formulas": 16
+  },
+  {
+    "path": "06-dimensionality-reduction/1966-partial-least-squares.md",
+    "title": "偏最小二乘（Partial Least Squares）",
+    "year": "1966",
+    "bytes": 4768,
+    "lines": 149,
+    "display_formulas": 11
+  },
+  {
+    "path": "06-dimensionality-reduction/1984-johnson-lindenstrauss-random-projection.md",
+    "title": "Johnson-Lindenstrauss 随机投影（Johnson-Lindenstrauss Random Projection）",
+    "year": "1984",
+    "bytes": 5199,
+    "lines": 161,
+    "display_formulas": 12
+  },
+  {
+    "path": "06-dimensionality-reduction/1997-fastica.md",
+    "title": "FastICA（Fast Independent Component Analysis）",
+    "year": "1997",
+    "bytes": 5199,
+    "lines": 164,
+    "display_formulas": 12
+  },
+  {
+    "path": "06-dimensionality-reduction/1998-kernel-pca.md",
+    "title": "核主成分分析（Kernel PCA）",
+    "year": "1998",
+    "bytes": 4826,
+    "lines": 175,
+    "display_formulas": 15
+  },
+  {
+    "path": "06-dimensionality-reduction/2003-sparse-pca.md",
+    "title": "稀疏主成分分析（Sparse PCA）",
+    "year": "2003",
+    "bytes": 5291,
+    "lines": 170,
+    "display_formulas": 12
+  },
+  {
+    "path": "06-dimensionality-reduction/2008-t-sne.md",
+    "title": "t-SNE（t-distributed Stochastic Neighbor Embedding）",
+    "year": "2008",
+    "bytes": 5092,
+    "lines": 173,
+    "display_formulas": 14
+  },
+  {
+    "path": "06-dimensionality-reduction/2019-trimap.md",
+    "title": "TriMap（TriMap）",
+    "year": "2019",
+    "bytes": 4714,
+    "lines": 166,
+    "display_formulas": 13
+  },
+  {
+    "path": "06-dimensionality-reduction/2021-pacmap.md",
+    "title": "PaCMAP（Pairwise Controlled Manifold Approximation）",
+    "year": "2021",
+    "bytes": 4955,
+    "lines": 157,
+    "display_formulas": 12
+  },
+  {
+    "path": "07-clustering/1963-ward-hierarchical-clustering.md",
+    "title": "Ward 层次聚类（Ward Hierarchical Clustering）",
+    "year": "1963",
+    "bytes": 4346,
+    "lines": 138,
+    "display_formulas": 9
+  },
+  {
+    "path": "07-clustering/1987-pam-k-medoids.md",
+    "title": "PAM 与 K-medoids（PAM / K-medoids）",
+    "year": "1987",
+    "bytes": 4852,
+    "lines": 161,
+    "display_formulas": 12
+  },
+  {
+    "path": "07-clustering/1996-birch.md",
+    "title": "BIRCH（Balanced Iterative Reducing and Clustering using Hierarchies）",
+    "year": "1996",
+    "bytes": 4972,
+    "lines": 165,
+    "display_formulas": 12
+  },
+  {
+    "path": "07-clustering/1996-dbscan.md",
+    "title": "DBSCAN（Density-Based Spatial Clustering of Applications with Noise）",
+    "year": "1996",
+    "bytes": 5391,
+    "lines": 126,
+    "display_formulas": 6
+  },
+  {
+    "path": "07-clustering/1997-k-prototypes.md",
+    "title": "K-prototypes（K-prototypes）",
+    "year": "1997",
+    "bytes": 5002,
+    "lines": 166,
+    "display_formulas": 12
+  },
+  {
+    "path": "07-clustering/1999-optics.md",
+    "title": "OPTICS（Ordering Points To Identify the Clustering Structure）",
+    "year": "1999",
+    "bytes": 5224,
+    "lines": 158,
+    "display_formulas": 11
+  },
+  {
+    "path": "07-clustering/2002-spectral-clustering.md",
+    "title": "谱聚类（Spectral Clustering）",
+    "year": "2002",
+    "bytes": 4747,
+    "lines": 148,
+    "display_formulas": 10
+  },
+  {
+    "path": "07-clustering/2007-affinity-propagation.md",
+    "title": "亲和传播（Affinity Propagation）",
+    "year": "2007",
+    "bytes": 4986,
+    "lines": 166,
+    "display_formulas": 13
+  },
+  {
+    "path": "07-clustering/2013-hdbscan.md",
+    "title": "HDBSCAN*（Hierarchical DBSCAN）",
+    "year": "2013",
+    "bytes": 6283,
+    "lines": 169,
+    "display_formulas": 11
+  },
+  {
+    "path": "08-anomaly-detection/1974-hampel-filter.md",
+    "title": "Hampel 识别器与滤波（Hampel Identifier / Filter）",
+    "year": "1974",
+    "bytes": 4921,
+    "lines": 175,
+    "display_formulas": 13
+  },
+  {
+    "path": "08-anomaly-detection/1984-minimum-covariance-determinant.md",
+    "title": "最小协方差行列式（Minimum Covariance Determinant）",
+    "year": "1984",
+    "bytes": 4964,
+    "lines": 172,
+    "display_formulas": 13
+  },
+  {
+    "path": "08-anomaly-detection/2000-local-outlier-factor.md",
+    "title": "局部离群因子（Local Outlier Factor）",
+    "year": "2000",
+    "bytes": 4656,
+    "lines": 152,
+    "display_formulas": 11
+  },
+  {
+    "path": "08-anomaly-detection/2001-one-class-svm.md",
+    "title": "单类支持向量机（One-Class SVM）",
+    "year": "2001",
+    "bytes": 4647,
+    "lines": 170,
+    "display_formulas": 14
+  },
+  {
+    "path": "08-anomaly-detection/2008-isolation-forest.md",
+    "title": "孤立森林（Isolation Forest）",
+    "year": "2008",
+    "bytes": 5030,
+    "lines": 159,
+    "display_formulas": 12
+  },
+  {
+    "path": "08-anomaly-detection/2020-copod.md",
+    "title": "COPOD（Copula-Based Outlier Detection）",
+    "year": "2020",
+    "bytes": 4807,
+    "lines": 171,
+    "display_formulas": 14
+  },
+  {
+    "path": "08-anomaly-detection/2022-ecod.md",
+    "title": "ECOD（Empirical Cumulative Distribution-based Outlier Detection）",
+    "year": "2022",
+    "bytes": 4798,
+    "lines": 181,
+    "display_formulas": 15
+  },
+  {
+    "path": "09-imbalanced-sampling/1972-edited-nearest-neighbours.md",
+    "title": "编辑最近邻（Edited Nearest Neighbours）",
+    "year": "1972",
+    "bytes": 4817,
+    "lines": 164,
+    "display_formulas": 12
+  },
+  {
+    "path": "09-imbalanced-sampling/1976-tomek-links.md",
+    "title": "Tomek 链（Tomek Links）",
+    "year": "1976",
+    "bytes": 4538,
+    "lines": 159,
+    "display_formulas": 11
+  },
+  {
+    "path": "09-imbalanced-sampling/2002-smote.md",
+    "title": "SMOTE（Synthetic Minority Over-sampling Technique）",
+    "year": "2002",
+    "bytes": 4753,
+    "lines": 165,
+    "display_formulas": 12
+  },
+  {
+    "path": "09-imbalanced-sampling/2005-borderline-smote.md",
+    "title": "Borderline-SMOTE（Borderline-SMOTE）",
+    "year": "2005",
+    "bytes": 4899,
+    "lines": 163,
+    "display_formulas": 12
+  },
+  {
+    "path": "09-imbalanced-sampling/2008-adasyn.md",
+    "title": "ADASYN（Adaptive Synthetic Sampling）",
+    "year": "2008",
+    "bytes": 4616,
+    "lines": 156,
+    "display_formulas": 11
+  },
+  {
+    "path": "10-time-series-signal/0000-differencing.md",
+    "title": "差分（Differencing）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4522,
+    "lines": 163,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/0000-lag-features.md",
+    "title": "滞后特征（Lag Features）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4353,
+    "lines": 149,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/0000-rolling-statistics.md",
+    "title": "滚动统计（Rolling Statistics）",
+    "year": "基础方法（无唯一首发年份）",
+    "bytes": 4378,
+    "lines": 157,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/1960-kalman-filter.md",
+    "title": "卡尔曼滤波（Kalman Filter）",
+    "year": "1960",
+    "bytes": 6467,
+    "lines": 255,
+    "display_formulas": 23
+  },
+  {
+    "path": "10-time-series-signal/1964-savitzky-golay-filter.md",
+    "title": "Savitzky-Golay 滤波（Savitzky-Golay Filter）",
+    "year": "1964",
+    "bytes": 4489,
+    "lines": 156,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/1979-lowess-loess.md",
+    "title": "局部加权回归（LOWESS / LOESS）",
+    "year": "1979",
+    "bytes": 4972,
+    "lines": 189,
+    "display_formulas": 16
+  },
+  {
+    "path": "10-time-series-signal/1988-discrete-wavelet-transform.md",
+    "title": "离散小波变换（Discrete Wavelet Transform）",
+    "year": "1988",
+    "bytes": 4887,
+    "lines": 177,
+    "display_formulas": 13
+  },
+  {
+    "path": "10-time-series-signal/1990-stl-decomposition.md",
+    "title": "STL 分解（Seasonal-Trend decomposition using LOESS）",
+    "year": "1990",
+    "bytes": 5013,
+    "lines": 168,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/1992-total-variation-denoising.md",
+    "title": "全变差去噪（Total Variation Denoising）",
+    "year": "1992",
+    "bytes": 4464,
+    "lines": 155,
+    "display_formulas": 11
+  },
+  {
+    "path": "10-time-series-signal/1995-wavelet-thresholding.md",
+    "title": "小波阈值去噪（Wavelet Thresholding）",
+    "year": "1995",
+    "bytes": 4680,
+    "lines": 168,
+    "display_formulas": 13
+  },
+  {
+    "path": "10-time-series-signal/1998-empirical-mode-decomposition.md",
+    "title": "经验模态分解（Empirical Mode Decomposition）",
+    "year": "1998",
+    "bytes": 5023,
+    "lines": 172,
+    "display_formulas": 13
+  },
+  {
+    "path": "10-time-series-signal/2007-bayesian-online-change-point-detection.md",
+    "title": "贝叶斯在线变点检测（Bayesian Online Change Point Detection）",
+    "year": "2007",
+    "bytes": 5612,
+    "lines": 191,
+    "display_formulas": 15
+  },
+  {
+    "path": "10-time-series-signal/2012-pelt.md",
+    "title": "PELT 变点检测（Pruned Exact Linear Time）",
+    "year": "2012",
+    "bytes": 4530,
+    "lines": 145,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/2012-wavelet-scattering-transform.md",
+    "title": "小波散射变换（Wavelet Scattering Transform）",
+    "year": "2012",
+    "bytes": 5006,
+    "lines": 180,
+    "display_formulas": 14
+  },
+  {
+    "path": "10-time-series-signal/2014-trend-filtering.md",
+    "title": "趋势滤波（Trend Filtering）",
+    "year": "2014",
+    "bytes": 4787,
+    "lines": 156,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/2014-variational-mode-decomposition.md",
+    "title": "变分模态分解（Variational Mode Decomposition）",
+    "year": "2014",
+    "bytes": 5070,
+    "lines": 161,
+    "display_formulas": 12
+  },
+  {
+    "path": "10-time-series-signal/2014-wild-binary-segmentation.md",
+    "title": "野生二分分割（Wild Binary Segmentation）",
+    "year": "2014",
+    "bytes": 4792,
+    "lines": 155,
+    "display_formulas": 11
+  },
+  {
+    "path": "10-time-series-signal/2016-matrix-profile.md",
+    "title": "矩阵轮廓（Matrix Profile）",
+    "year": "2016",
+    "bytes": 4708,
+    "lines": 146,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/2016-tsfresh.md",
+    "title": "tsfresh 特征提取与筛选（tsfresh）",
+    "year": "2016",
+    "bytes": 4783,
+    "lines": 151,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/2017-fluss.md",
+    "title": "FLUSS（Fast Low-cost Unipotent Semantic Segmentation）",
+    "year": "2017",
+    "bytes": 4876,
+    "lines": 151,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/2019-catch22.md",
+    "title": "catch22（Canonical Time-series Characteristics）",
+    "year": "2019",
+    "bytes": 5055,
+    "lines": 159,
+    "display_formulas": 11
+  },
+  {
+    "path": "10-time-series-signal/2019-robust-stl.md",
+    "title": "RobustSTL（Robust Seasonal-Trend Decomposition）",
+    "year": "2019",
+    "bytes": 4916,
+    "lines": 146,
+    "display_formulas": 10
+  },
+  {
+    "path": "10-time-series-signal/2020-rocket.md",
+    "title": "ROCKET（Random Convolutional Kernel Transform）",
+    "year": "2020",
+    "bytes": 4889,
+    "lines": 177,
+    "display_formulas": 14
+  },
+  {
+    "path": "10-time-series-signal/2021-minirocket.md",
+    "title": "MiniRocket（MiniRocket）",
+    "year": "2021",
+    "bytes": 4547,
+    "lines": 151,
+    "display_formulas": 11
+  },
+  {
+    "path": "10-time-series-signal/2021-mstl.md",
+    "title": "MSTL（Multiple Seasonal-Trend decomposition using LOESS）",
+    "year": "2021",
+    "bytes": 4819,
+    "lines": 168,
+    "display_formulas": 13
+  },
+  {
+    "path": "10-time-series-signal/2021-robust-multiscale-seasonal-trend.md",
+    "title": "稳健多尺度季节趋势分解（Robust Multi-scale Seasonal-Trend Decomposition）",
+    "year": "2021",
+    "bytes": 5415,
+    "lines": 175,
+    "display_formulas": 13
+  },
+  {
+    "path": "10-time-series-signal/2022-multirocket.md",
+    "title": "MultiRocket（MultiRocket）",
+    "year": "2022",
+    "bytes": 4751,
+    "lines": 157,
+    "display_formulas": 13
+  },
+  {
+    "path": "11-image-features/1994-local-binary-pattern.md",
+    "title": "局部二值模式（Local Binary Pattern）",
+    "year": "1994",
+    "bytes": 4767,
+    "lines": 170,
+    "display_formulas": 14
+  },
+  {
+    "path": "11-image-features/1998-bilateral-filter.md",
+    "title": "双边滤波（Bilateral Filter）",
+    "year": "1998",
+    "bytes": 4726,
+    "lines": 161,
+    "display_formulas": 13
+  },
+  {
+    "path": "11-image-features/2004-sift.md",
+    "title": "尺度不变特征变换（Scale-Invariant Feature Transform）",
+    "year": "2004",
+    "bytes": 5214,
+    "lines": 167,
+    "display_formulas": 13
+  },
+  {
+    "path": "11-image-features/2005-histogram-oriented-gradients.md",
+    "title": "方向梯度直方图（Histogram of Oriented Gradients）",
+    "year": "2005",
+    "bytes": 4490,
+    "lines": 147,
+    "display_formulas": 11
+  },
+  {
+    "path": "12-neural-normalization/2015-batch-normalization.md",
+    "title": "批归一化（Batch Normalization）",
+    "year": "2015",
+    "bytes": 4781,
+    "lines": 165,
+    "display_formulas": 13
+  },
+  {
+    "path": "12-neural-normalization/2016-layer-normalization.md",
+    "title": "层归一化（Layer Normalization）",
+    "year": "2016",
+    "bytes": 4596,
+    "lines": 170,
+    "display_formulas": 14
+  },
+  {
+    "path": "12-neural-normalization/2018-group-normalization.md",
+    "title": "组归一化（Group Normalization）",
+    "year": "2018",
+    "bytes": 4682,
+    "lines": 147,
+    "display_formulas": 11
+  },
+  {
+    "path": "12-neural-normalization/2019-rmsnorm.md",
+    "title": "RMSNorm（Root Mean Square Layer Normalization）",
+    "year": "2019",
+    "bytes": 4367,
+    "lines": 162,
+    "display_formulas": 13
+  },
+  {
+    "path": "13-explainability/2015-individual-conditional-expectation.md",
+    "title": "个体条件期望曲线（Individual Conditional Expectation）",
+    "year": "2015",
+    "bytes": 5080,
+    "lines": 167,
+    "display_formulas": 12
+  },
+  {
+    "path": "13-explainability/2016-accumulated-local-effects.md",
+    "title": "累积局部效应（Accumulated Local Effects）",
+    "year": "2016",
+    "bytes": 4612,
+    "lines": 148,
+    "display_formulas": 11
+  },
+  {
+    "path": "13-explainability/2016-lime.md",
+    "title": "LIME（Local Interpretable Model-agnostic Explanations）",
+    "year": "2016",
+    "bytes": 4628,
+    "lines": 153,
+    "display_formulas": 12
+  },
+  {
+    "path": "13-explainability/2017-influence-functions.md",
+    "title": "影响函数（Influence Functions）",
+    "year": "2017",
+    "bytes": 5275,
+    "lines": 165,
+    "display_formulas": 13
+  },
+  {
+    "path": "13-explainability/2017-shap.md",
+    "title": "SHAP（SHapley Additive exPlanations）",
+    "year": "2017",
+    "bytes": 6112,
+    "lines": 206,
+    "display_formulas": 17
+  },
+  {
+    "path": "13-explainability/2018-anchors.md",
+    "title": "Anchors（Anchors Explanations）",
+    "year": "2018",
+    "bytes": 5076,
+    "lines": 152,
+    "display_formulas": 10
+  },
+  {
+    "path": "13-explainability/2018-tcav.md",
+    "title": "TCAV（Testing with Concept Activation Vectors）",
+    "year": "2018",
+    "bytes": 5130,
+    "lines": 161,
+    "display_formulas": 11
+  },
+  {
+    "path": "13-explainability/2020-sage.md",
+    "title": "SAGE（Shapley Additive Global Importance）",
+    "year": "2020",
+    "bytes": 4850,
+    "lines": 158,
+    "display_formulas": 12
+  },
+  {
+    "path": "13-explainability/2020-treeshap.md",
+    "title": "TreeSHAP（TreeSHAP）",
+    "year": "2020",
+    "bytes": 5234,
+    "lines": 167,
+    "display_formulas": 12
+  },
+  {
+    "path": "13-explainability/2023-dale.md",
+    "title": "DALE（Differential Accumulated Local Effects）",
+    "year": "2023",
+    "bytes": 4851,
+    "lines": 161,
+    "display_formulas": 12
+  },
+  {
+    "path": "14-graph-topology/2000-isomap.md",
+    "title": "Isomap（Isometric Mapping）",
+    "year": "2000",
+    "bytes": 4396,
+    "lines": 142,
+    "display_formulas": 9
+  },
+  {
+    "path": "14-graph-topology/2000-locally-linear-embedding.md",
+    "title": "局部线性嵌入（Locally Linear Embedding）",
+    "year": "2000",
+    "bytes": 4660,
+    "lines": 170,
+    "display_formulas": 13
+  },
+  {
+    "path": "14-graph-topology/2003-laplacian-eigenmaps.md",
+    "title": "拉普拉斯特征映射（Laplacian Eigenmaps）",
+    "year": "2003",
+    "bytes": 5828,
+    "lines": 215,
+    "display_formulas": 18
+  },
+  {
+    "path": "14-graph-topology/2006-diffusion-maps.md",
+    "title": "扩散映射（Diffusion Maps）",
+    "year": "2006",
+    "bytes": 4299,
+    "lines": 145,
+    "display_formulas": 10
+  },
+  {
+    "path": "14-graph-topology/2007-mapper.md",
+    "title": "Mapper（Mapper Algorithm）",
+    "year": "2007",
+    "bytes": 4996,
+    "lines": 159,
+    "display_formulas": 11
+  },
+  {
+    "path": "14-graph-topology/2008-louvain.md",
+    "title": "Louvain 社区发现（Louvain Method）",
+    "year": "2008",
+    "bytes": 5020,
+    "lines": 152,
+    "display_formulas": 9
+  },
+  {
+    "path": "14-graph-topology/2018-umap.md",
+    "title": "UMAP（Uniform Manifold Approximation and Projection）",
+    "year": "2018",
+    "bytes": 6087,
+    "lines": 203,
+    "display_formulas": 18
+  },
+  {
+    "path": "14-graph-topology/2019-leiden.md",
+    "title": "Leiden 社区发现（Leiden Algorithm）",
+    "year": "2019",
+    "bytes": 4636,
+    "lines": 153,
+    "display_formulas": 10
+  },
+  {
+    "path": "14-graph-topology/2019-phate.md",
+    "title": "PHATE（Potential of Heat-diffusion for Affinity-based Transition Embedding）",
+    "year": "2019",
+    "bytes": 4603,
+    "lines": 156,
+    "display_formulas": 11
+  },
+  {
+    "path": "14-graph-topology/2021-densmap.md",
+    "title": "densMAP（Density-preserving UMAP）",
+    "year": "2021",
+    "bytes": 4668,
+    "lines": 150,
+    "display_formulas": 10
+  },
+  {
+    "path": "14-graph-topology/2022-multiscale-phate.md",
+    "title": "Multiscale PHATE（Multiscale PHATE）",
+    "year": "2022",
+    "bytes": 4588,
+    "lines": 151,
+    "display_formulas": 10
+  },
+  {
+    "path": "15-compositional-data/1982-centered-log-ratio.md",
+    "title": "中心对数比变换（Centered Log-Ratio Transform）",
+    "year": "1982",
+    "bytes": 4275,
+    "lines": 163,
+    "display_formulas": 12
+  },
+  {
+    "path": "15-compositional-data/2003-isometric-log-ratio.md",
+    "title": "等距对数比变换（Isometric Log-Ratio Transform）",
+    "year": "2003",
+    "bytes": 4488,
+    "lines": 153,
+    "display_formulas": 11
+  },
+  {
+    "path": "16-matrix-factorization/1967-sinkhorn-knopp-scaling.md",
+    "title": "Sinkhorn-Knopp 矩阵缩放（Sinkhorn-Knopp Scaling）",
+    "year": "1967",
+    "bytes": 4414,
+    "lines": 170,
+    "display_formulas": 15
+  },
+  {
+    "path": "16-matrix-factorization/1999-nonnegative-matrix-factorization.md",
+    "title": "非负矩阵分解（Non-negative Matrix Factorization）",
+    "year": "1999",
+    "bytes": 4679,
+    "lines": 174,
+    "display_formulas": 15
+  },
+  {
+    "path": "16-matrix-factorization/2009-nuclear-norm-matrix-completion.md",
+    "title": "核范数矩阵补全（Nuclear-Norm Matrix Completion）",
+    "year": "2009",
+    "bytes": 4852,
+    "lines": 164,
+    "display_formulas": 14
+  },
+  {
+    "path": "16-matrix-factorization/2011-gromov-wasserstein.md",
+    "title": "Gromov-Wasserstein 对齐（Gromov-Wasserstein Alignment）",
+    "year": "2011",
+    "bytes": 6032,
+    "lines": 197,
+    "display_formulas": 16
+  },
+  {
+    "path": "16-matrix-factorization/2011-robust-pca.md",
+    "title": "稳健主成分分析（Robust PCA / Principal Component Pursuit）",
+    "year": "2011",
+    "bytes": 4560,
+    "lines": 170,
+    "display_formulas": 16
+  },
+  {
+    "path": "16-matrix-factorization/2013-entropic-optimal-transport.md",
+    "title": "熵正则最优传输（Entropic Optimal Transport）",
+    "year": "2013",
+    "bytes": 4682,
+    "lines": 173,
+    "display_formulas": 16
+  }
+]
