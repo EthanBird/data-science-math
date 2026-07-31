@@ -26,6 +26,7 @@ jobs:
           python bootstrap.py
           rm bootstrap.py
           rm -rf tools/__pycache__
+          python tools/generate.py
 
       - name: Validate Markdown structure
         run: python tools/validate_markdown.py
